@@ -1,0 +1,8 @@
+# FORMAT: LOGIN_NAUCZYCIELA;DZIEN_TYGODNIA;GODZINA_START;GODZINA_KONIEC;SALA
+anowak;Wtorek;12:30;13:15;P1
+pnowicki;Poniedziałek;12:30;13:15;P2
+mwojcik;Środa;12:30;13:15;P3
+kkowalczyk;Czwartek;12:30;13:15;P4
+jlis;Piątek;10:40;11:25;P5
+zjaworski;Poniedziałek;12:30;13:15;GIM
+bgrabowska;Wtorek;12:30;13:15;P6

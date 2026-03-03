@@ -1,0 +1,415 @@
+jkowalski;Matematyka;5,0;3;anowak;Sprawdzian - Funkcje
+jkowalski;Język Polski;4,5;3;mwojcik;Rozprawka - Lalka
+jkowalski;Systemy operacyjne;5,0;2;bgrabowska;Instalacja Linuxa
+jkowalski;Fizyka;4,0;2;pnowicki;Zadanie laboratoryjne
+kkrol;Matematyka;3,5;3;anowak;Sprawdzian - Funkcje
+kkrol;Język Polski;4,0;1;mwojcik;Odpowiedź ustna - Romantyzm
+kkrol;Chemia;4,0;2;jlis;Projekt - Reakcje redoks
+pwazny;Fizyka;3,0;3;pnowicki;Sprawdzian - Kinematyka
+pwazny;Historia;5,0;1;kkowalczyk;Aktywność na lekcji
+pwazny;Matematyka;4,5;2;anowak;Kartkówka - Logarytmy
+mdabrowska;Matematyka;2,0;3;anowak;Sprawdzian - Funkcje
+mdabrowska;Wychowanie fizyczne;5,0;1;zjaworski;Test sprawnościowy
+mdabrowska;Biologia;3,0;2;bgrabowska;Klasyfikacja organizmów
+kzaremba;Język Polski;4,0;3;mwojcik;Wypracowanie
+kzaremba;Informatyka;5,0;2;anowak;Algorytmy sortowania
+kzaremba;Historia;4,5;1;kkowalczyk;Referat
+ajaskula;Fizyka;3,5;3;pnowicki;Sprawdzian - Kinematyka
+ajaskula;Chemia;4,0;1;jlis;Kartkówka - Pierwiastki
+ajaskula;Matematyka;4,0;2;anowak;Praca domowa
+mmichalski;Biologia;5,0;3;bgrabowska;Sprawdzian - Ekologia
+mmichalski;Wychowanie fizyczne;4,0;1;zjaworski;Gry zespołowe
+mmichalski;Język Polski;3,0;2;mwojcik;Dyktando
+bostrowska;Historia;4,5;3;kkowalczyk;Test - Starożytność
+bostrowska;Matematyka;4,0;1;anowak;Odpowiedź przy tablicy
+bostrowska;Informatyka;4,5;2;anowak;Bazy danych - SQL
+gsikorski;Fizyka;5,0;3;pnowicki;Sprawdzian - Dynamika
+gsikorski;Język Polski;4,0;2;mwojcik;Analiza wiersza
+gsikorski;Chemia;4,5;1;jlis;Aktywność - Laboratorium
+dborkowska;Matematyka;3,0;3;anowak;Sprawdzian - Geometria
+dborkowska;Biologia;4,0;2;bgrabowska;Prezentacja - Genetyka
+dborkowska;Wychowanie fizyczne;5,0;1;zjaworski;Zaliczenie biegu
+wwrobel;Język Polski;4,0;3;mwojcik;Charakterystyka postaci
+wwrobel;Fizyka;4,5;1;pnowicki;Kartkówka - Optyka
+wwrobel;Historia;3,5;2;kkowalczyk;Odpowiedź ustna - Średniowiecze
+jmarciniak;Chemia;4,5;3;jlis;Sprawdzian - Kwasy i zasady
+jmarciniak;Informatyka;5,0;1;anowak;Ćwiczenie - Excel
+jmarciniak;Matematyka;4,0;2;anowak;Rozwiązywanie zadań
+rpiotrowski;Biologia;3,0;3;bgrabowska;Sprawdzian - Anatomia
+rpiotrowski;Fizyka;4,0;2;pnowicki;Doświadczenie - Elektryczność
+rpiotrowski;Język Polski;4,5;1;mwojcik;Recytacja
+wwitkowska;Wychowanie fizyczne;5,0;1;zjaworski;Siatkówka - technika
+wwitkowska;Matematyka;4,0;3;anowak;Sprawdzian - Trygonometria
+wwitkowska;Historia;4,5;2;kkowalczyk;Projekt - II RP
+msokolowski;Informatyka;5,0;3;anowak;Programowanie - Pętle
+msokolowski;Chemia;4,0;1;jlis;Notatka z lekcji
+msokolowski;Fizyka;4,5;2;pnowicki;Sprawozdanie
+zjaworska;Język Polski;4,0;3;mwojcik;Test z lektury
+zjaworska;Matematyka;3,5;2;anowak;Kartkówka - Ułamki
+zjaworska;Biologia;4,0;1;bgrabowska;Obserwacja mikroskopowa
+dszostak;Historia;5,0;3;kkowalczyk;Esej historyczny
+dszostak;Wychowanie fizyczne;5,0;1;zjaworski;Zaliczenie gimnastyki
+dszostak;Informatyka;4,5;2;anowak;Tworzenie stron WWW
+kkaczmarczyk;Fizyka;4,0;3;pnowicki;Sprawdzian - Fale
+kkaczmarczyk;Matematyka;4,5;1;anowak;Aktywność
+kkaczmarczyk;Chemia;4,0;2;jlis;Obliczenia stechiometryczne
+mbaranowski;Język Polski;3,0;3;mwojcik;Gramatyka - test
+mbaranowski;Biologia;4,0;2;bgrabowska;Zielnik
+mbaranowski;Historia;4,5;1;kkowalczyk;Odpowiedź z mapy
+npiatek;Matematyka;5,0;3;anowak;Olimpiada szkolna
+npiatek;Informatyka;5,0;2;anowak;Projekt - Aplikacja
+npiatek;Fizyka;4,5;1;pnowicki;Referat - Astronomia
+abaran;Wychowanie fizyczne;4,0;1;zjaworski;Koszykówka
+abaran;Chemia;3,5;3;jlis;Sprawdzian - Sole
+abaran;Język Polski;4,0;2;mwojcik;Stylizacja językowa
+kpietrzak;Historia;4,0;3;kkowalczyk;Test - Współczesność
+kpietrzak;Matematyka;4,5;2;anowak;Zadania dodatkowe
+kpietrzak;Biologia;4,0;1;bgrabowska;Prezentacja multimedialna
+pstepien;Fizyka;3,0;3;pnowicki;Sprawdzian - Magnetyzm
+pstepien;Informatyka;4,0;1;anowak;Skróty klawiszowe
+pstepien;Wychowanie fizyczne;5,0;1;zjaworski;Piłka nożna
+jmakowska;Matematyka;4,5;3;anowak;Sprawdzian - Ciągi
+jmakowska;Język Polski;4,0;2;mwojcik;Interpretacja wiersza
+jmakowska;Chemia;4,0;1;jlis;Praca w grupach
+swisniewski;Biologia;3,5;3;bgrabowska;Test - Systematyka
+swisniewski;Historia;4,0;1;kkowalczyk;Dyskusja na lekcji
+swisniewski;Fizyka;4,0;2;pnowicki;Rozwiązywanie zadań - Prąd
+pnowakowska;Wychowanie fizyczne;5,0;1;zjaworski;Unihokej
+pnowakowska;Informatyka;4,5;3;anowak;Algorytmika - test
+pnowakowska;Matematyka;4,0;1;anowak;Praca klasowa
+tsocha;Język Polski;4,0;3;mwojcik;Analiza tekstu źródłowego
+tsocha;Chemia;4,5;2;jlis;Sprawozdanie z doświadczenia
+tsocha;Historia;4,0;1;kkowalczyk;Prezentacja
+mbednarek;Fizyka;5,0;3;pnowicki;Konkurs fizyczny
+mbednarek;Matematyka;5,0;2;anowak;Zadanie z gwiazdką
+mbednarek;Biologia;4,5;1;bgrabowska;Projekt badawczy
+mgora;Fizyka;4,0;3;pnowicki;Test z dynamiki
+mgora;Chemia;3,0;1;jlis;Kartkówka - symbole
+mgora;Matematyka;4,5;2;anowak;Odpowiedź ustna
+tdabrowski;Fizyka;2,5;3;pnowicki;Test z dynamiki
+tdabrowski;Język Polski;3,0;2;mwojcik;Dyktando
+tdabrowski;Historia;4,0;1;kkowalczyk;Aktywność
+awolinska;Biologia;5,0;3;bgrabowska;Sprawdzian - Botanika
+awolinska;Matematyka;4,0;2;anowak;Praca w grupach
+awolinska;Wychowanie fizyczne;4,5;1;zjaworski;Gimnastyka artystyczna
+kpawlak;Chemia;4,0;3;jlis;Sprawdzian - Węglowodory
+kpawlak;Fizyka;4,5;1;pnowicki;Projekt - Energia odnawialna
+kpawlak;Język Polski;4,0;2;mwojcik;Charakterystyka porównawcza
+jbrzezinska;Historia;3,5;3;kkowalczyk;Test - Odrodzenie
+jbrzezinska;Informatyka;4,0;2;anowak;Grafika komputerowa
+jbrzezinska;Matematyka;4,0;1;anowak;Zadanie domowe
+pkozlowski;Matematyka;5,0;3;anowak;Sprawdzian - Prawdopodobieństwo
+pkozlowski;Fizyka;4,5;2;pnowicki;Laboratorium - Termodynamika
+pkozlowski;Biologia;4,0;1;bgrabowska;Hodowla tkankowa
+mszewczyk;Język Polski;4,0;3;mwojcik;Rozprawka argumentacyjna
+mszewczyk;Chemia;4,0;2;jlis;Masa atomowa i cząsteczkowa
+mszewczyk;Wychowanie fizyczne;5,0;1;zjaworski;Pływanie
+rlewandowski;Historia;4,5;3;kkowalczyk;Prezentacja - Oświecenie
+rlewandowski;Informatyka;5,0;1;anowak;Tworzenie algorytmów
+rlewandowski;Fizyka;4,0;2;pnowicki;Kartkówka - Siły
+dkrawczyk;Biologia;3,0;3;bgrabowska;Sprawdzian - Zoologia
+dkrawczyk;Matematyka;4,0;2;anowak;Równania i nierówności
+dkrawczyk;Język Polski;4,5;1;mwojcik;Poprawność językowa
+fnowicki;Wychowanie fizyczne;5,0;1;zjaworski;Lekkoatletyka
+fnowicki;Chemia;4,0;3;jlis;Sprawdzian - Alkohole
+fnowicki;Historia;4,5;2;kkowalczyk;Źródła historyczne
+gsawicka;Informatyka;5,0;3;anowak;Bazy danych - Projekt
+gsawicka;Fizyka;4,0;1;pnowicki;Zjawiska falowe
+gsawicka;Matematyka;4,5;2;anowak;Geometria analityczna
+mjablonski;Język Polski;4,0;3;mwojcik;Test z Młodej Polski
+mjablonski;Biologia;3,5;2;bgrabowska;Mikrobiologia - ćwiczenia
+mjablonski;Chemia;4,0;1;jlis;Właściwości pierwiastków
+zwozniak;Historia;5,0;3;kkowalczyk;Analiza tekstu źródłowego
+zwozniak;Wychowanie fizyczne;4,5;1;zjaworski;SKS
+zwozniak;Informatyka;4,0;2;anowak;Sieci komputerowe - konfiguracja
+kzieba;Fizyka;4,0;3;pnowicki;Sprawdzian - Elektromagnetyzm
+kzieba;Matematyka;4,5;1;anowak;Rozwiązywanie problemów
+kzieba;Język Polski;4,0;2;mwojcik;List motywacyjny
+jkozak;Chemia;3,0;3;jlis;Sprawdzian - Chemia organiczna
+jkozak;Biologia;4,0;2;bgrabowska;Ochrona środowiska
+jkozak;Historia;4,5;1;kkowalczyk;Debata
+murbanski;Matematyka;5,0;3;anowak;Sprawdzian - Statystyka
+murbanski;Informatyka;4,5;2;anowak;Prezentacja multimedialna
+murbanski;Wychowanie fizyczne;5,0;1;zjaworski;Zawody sportowe
+wwalczak;Język Polski;4,0;3;mwojcik;Literatura współczesna
+wwalczak;Fizyka;4,0;1;pnowicki;Kartkówka - Jednostki SI
+wwalczak;Chemia;4,5;2;jlis;Projekt badawczy - Woda
+dwojcik;Biologia;3,5;3;bgrabowska;Test - Ewolucjonizm
+dwojcik;Historia;4,0;2;kkowalczyk;Mapy historyczne
+dwojcik;Matematyka;4,0;1;anowak;Zadania tekstowe
+kbaran;Wychowanie fizyczne;5,0;1;zjaworski;Badminton
+kbaran;Informatyka;4,5;3;anowak;Test - Arkusze kalkulacyjne
+kbaran;Język Polski;4,0;2;mwojcik;Reportaż
+lsikora;Chemia;4,0;3;jlis;Sprawdzian - Roztwory
+lsikora;Fizyka;4,5;2;pnowicki;Zadania obliczeniowe - Praca, moc
+lsikora;Biologia;4,0;1;bgrabowska;Praca w grupach
+oczarnecka;Historia;5,0;3;kkowalczyk;Test - PRL
+oczarnecka;Matematyka;4,0;1;anowak;Dowodzenie twierdzeń
+oczarnecka;Informatyka;4,5;2;anowak;Systemy liczbowe
+jprzybylski;Fizyka;3,0;3;pnowicki;Sprawdzian - Hydrostatyka
+jprzybylski;Język Polski;4,0;2;mwojcik;Rozpoznawanie części mowy
+jprzybylski;Wychowanie fizyczne;5,0;1;zjaworski;Tenis stołowy
+mkalinowska;Matematyka;4,5;3;anowak;Sprawdzian - Planimetria
+mkalinowska;Chemia;4,0;1;jlis;Układ okresowy
+mkalinowska;Biologia;4,0;2;bgrabowska;Budowa komórki
+dchmielewski;Historia;3,5;3;kkowalczyk;Źródła ikonograficzne
+dchmielewski;Fizyka;4,0;2;pnowicki;Zasady dynamiki Newtona
+dchmielewski;Informatyka;4,5;1;anowak;Algorytm Euklidesa
+awroblewska;Wychowanie fizyczne;5,0;1;zjaworski;Aerobik
+awroblewska;Język Polski;4,0;3;mwojcik;Środki stylistyczne
+awroblewska;Matematyka;4,5;2;anowak;Funkcja kwadratowa
+ksawicki;Chemia;4,0;3;jlis;Sprawdzian - Metale i niemetale
+ksawicki;Biologia;4,5;1;bgrabowska;Obserwacja ptaków
+ksawicki;Historia;4,0;2;kkowalczyk;Postacie historyczne
+bzieba2;Chemia;5,0;2;jlis;Doświadczenie laboratoryjne
+bzieba2;Fizyka;4,0;3;pnowicki;Test z dynamiki
+bzieba2;Język Polski;5,0;2;mwojcik;Recytacja wiersza
+mnowotny;Fizyka;2,0;3;pnowicki;Test z dynamiki
+mnowotny;Chemia;3,0;1;jlis;Kartkówka - symbole
+mnowotny;Matematyka;3,5;2;anowak;Praca na lekcji
+ajablonska;Biologia;4,5;3;bgrabowska;Sprawdzian z genetyki
+ajablonska;Historia;4,0;1;kkowalczyk;Opis obrazu
+ajablonska;Język Polski;4,0;2;mwojcik;Ortografia
+tczerwinski;Wychowanie fizyczne;5,0;1;zjaworski;Piłka ręczna
+tczerwinski;Matematyka;3,0;3;anowak;Sprawdzian - Wyrażenia algebraiczne
+tczerwinski;Fizyka;3,5;2;pnowicki;Zadania z treścią
+mmazurek;Informatyka;4,5;3;anowak;Prezentacja - Bezpieczeństwo w sieci
+mmazurek;Chemia;4,0;2;jlis;Budowa materii
+mmazurek;Biologia;4,0;1;bgrabowska;Zdrowy styl życia
+sszymczak;Język Polski;4,0;3;mwojcik;Rozprawka problemowa
+sszymczak;Historia;4,5;1;kkowalczyk;Oś czasu
+sszymczak;Matematyka;4,0;2;anowak;Procenty
+bmazur;Fizyka;3,5;3;pnowicki;Test - Ciepło
+bmazur;Wychowanie fizyczne;5,0;1;zjaworski;Gimnastyka korekcyjna
+bmazur;Informatyka;4,0;2;anowak;Edytor tekstu - formatowanie
+kwasilewski;Chemia;4,5;3;jlis;Sprawdzian - Reakcje chemiczne
+kwasilewski;Język Polski;4,0;1;mwojcik;Czytanie ze zrozumieniem
+kwasilewski;Biologia;4,5;2;bgrabowska;Układ krążenia
+rsokolowska;Matematyka;4,0;3;anowak;Sprawdzian - Stereometria
+rsokolowska;Fizyka;3,0;2;pnowicki;Laboratorium - Światło
+rsokolowska;Historia;4,0;1;kkowalczyk;Praca z tekstem
+mszczepanski;Wychowanie fizyczne;5,0;1;zjaworski;Pchnięcie kulą
+mszczepanski;Informatyka;4,0;3;anowak;Systemy operacyjne - polecenia
+mszczepanski;Chemia;4,5;2;jlis;Wiązania chemiczne
+kbednarczyk;Język Polski;4,5;3;mwojcik;Analiza porównawcza utworów
+kbednarczyk;Matematyka;4,0;1;anowak;Szybkie liczenie
+kbednarczyk;Fizyka;4,0;2;pnowicki;Ruch drgający
+jlesiak;Biologia;3,5;3;bgrabowska;Sprawdzian - Fizjologia człowieka
+jlesiak;Historia;4,0;2;kkowalczyk;Źródła pisane
+jlesiak;Wychowanie fizyczne;5,0;1;zjaworski;Biegi przełajowe
+jankowska2;Chemia;4,0;3;jlis;Sprawdzian - Tlenki i wodorotlenki
+jankowska2;Informatyka;4,5;2;anowak;Podstawy HTML
+jankowska2;Matematyka;4,0;1;anowak;Konstrukcje geometryczne
+wkubiak;Fizyka;5,0;3;pnowicki;Olimpiada fizyczna
+wkubiak;Język Polski;4,5;2;mwojcik;Artykuł prasowy
+wkubiak;Biologia;4,0;1;bgrabowska;Klasówka - rośliny
+borkowska2;Matematyka;3,0;3;anowak;Sprawdzian - Wielomiany
+borkowska2;Historia;4,0;1;kkowalczyk;Postać historyczna - opis
+borkowska2;Wychowanie fizyczne;5,0;1;zjaworski;Skok wzwyż
+pzakrzewski;Informatyka;4,0;3;anowak;Programowanie - Funkcje
+pzakrzewski;Chemia;4,5;2;jlis;Elektroliza
+pzakrzewski;Język Polski;4,0;1;mwojcik;Mowa zależna i niezależna
+kwieczorek;Biologia;4,5;3;bgrabowska;Sprawdzian - Ekosystemy
+kwieczorek;Fizyka;4,0;1;pnowicki;Zadanie dodatkowe
+kwieczorek;Matematyka;4,0;2;anowak;Układy równań
+sgrabowski;Historia;3,5;3;kkowalczyk;Test - XIX wiek
+sgrabowski;Wychowanie fizyczne;5,0;1;zjaworski;Rzuty do kosza
+sgrabowski;Chemia;4,0;2;jlis;Korozja metali
+krajewska;Język Polski;4,0;3;mwojcik;Sprawozdanie
+krajewska;Matematyka;4,5;2;anowak;Pola figur
+krajewska;Informatyka;4,0;1;anowak;Edytor graficzny
+mchojnacki;Fizyka;5,0;3;pnowicki;Doświadczenie - Ciecz nienewtonowska
+mchojnacki;Biologia;4,5;2;bgrabowska;Układ nerwowy
+mchojnacki;Historia;4,0;1;kkowalczyk;Mapa myśli
+dkowalewska;Matematyka;3,0;3;anowak;Sprawdzian - Potęgi i pierwiastki
+dkowalewska;Język Polski;4,0;1;mwojcik;Pisownia "nie" z różnymi częściami mowy
+dkowalewska;Chemia;4,5;2;jlis;Kwasy karboksylowe
+kmroz;Wychowanie fizyczne;5,0;1;zjaworski;Gry terenowe
+kmroz;Informatyka;4,0;3;anowak;Test - Budowa komputera
+kmroz;Fizyka;4,5;2;pnowicki;Przemiany energetyczne
+mkozak2;Historia;4,5;3;kkowalczyk;Test - XX-lecie międzywojenne
+mkozak2;Biologia;4,0;2;bgrabowska;Choroby cywilizacyjne
+mkozak2;Matematyka;4,0;1;anowak;Zadania logiczne
+bbrzezinski;Język Polski;3,5;3;mwojcik;List oficjalny
+bbrzezinski;Chemia;4,0;1;jlis;Reakcje strąceniowe
+bbrzezinski;Informatyka;4,5;2;anowak;Prezentacja - Historia internetu
+jlisowska;Fizyka;4,0;3;pnowicki;Sprawdzian - Prąd elektryczny
+jlisowska;Wychowanie fizyczne;5,0;1;zjaworski;Fitness
+jlisowska;Historia;4,0;2;kkowalczyk;Linia czasu
+szielinski;Matematyka;4,5;3;anowak;Sprawdzian - Funkcja liniowa
+szielinski;Biologia;4,0;2;bgrabowska;Fotosynteza
+szielinski;Język Polski;4,0;1;mwojcik;Tworzenie opisów
+dwilk;Chemia;5,0;3;jlis;Konkurs chemiczny
+dwilk;Informatyka;4,5;1;anowak;Obsługa systemu Linux
+dwilk;Fizyka;4,0;2;pnowicki;Prawo Pascala
+mzalewski;Historia;3,0;3;kkowalczyk;Test - Zimna Wojna
+mzalewski;Matematyka;4,0;2;anowak;Bryły obrotowe
+mzalewski;Wychowanie fizyczne;5,0;1;zjaworski;Samoobrona
+mkucharska;Język Polski;4,0;3;mwojcik;Opowiadanie twórcze
+mkucharska;Biologia;4,5;2;bgrabowska;Układ oddechowy
+mkucharska;Chemia;4,0;1;jlis;Aktywność na lekcji
+kkrawczyk2;Fizyka;4,5;3;pnowicki;Projekt - Silnik parowy
+kkrawczyk2;Informatyka;4,0;2;anowak;Edycja wideo
+kkrawczyk2;Historia;4,5;1;kkowalczyk;Praca ze źródłem
+rwolski;Historia;5,0;1;kkowalczyk;Aktywność na lekcji
+rwolski;Fizyka;4,0;3;pnowicki;Test - Optyka geometryczna
+rwolski;Matematyka;4,5;2;anowak;Zadania na dowodzenie
+pczarnecki;Historia;3,0;3;kkowalczyk;Test - II Wojna Światowa
+pczarnecki;Chemia;4,0;1;jlis;Kartkówka - Grupy funkcyjne
+pczarnecki;Język Polski;3,5;2;mwojcik;Notatka syntetyzująca
+jzakrzewska;Biologia;4,5;3;bgrabowska;Sprawdzian - Ekologia lasu
+jzakrzewska;Matematyka;4,0;2;anowak;Figury podobne
+jzakrzewska;Wychowanie fizyczne;5,0;1;zjaworski;Taniec
+dnowak;Informatyka;5,0;3;anowak;Projekt zespołowy - Strona WWW
+dnowak;Fizyka;4,0;1;pnowicki;Odpowiedź ustna - Fale dźwiękowe
+dnowak;Historia;4,5;2;kkowalczyk;Interpretacja karykatury
+ksocha2;Język Polski;4,0;3;mwojcik;Recenzja filmu
+ksocha2;Chemia;4,5;2;jlis;Miareczkowanie - sprawozdanie
+ksocha2;Matematyka;4,0;1;anowak;Zadanie tekstowe - Proporcje
+rpietrzak;Fizyka;3,5;3;pnowicki;Test - Grawitacja
+rpietrzak;Biologia;4,0;2;bgrabowska;Układ wydalniczy
+rpietrzak;Wychowanie fizyczne;5,0;1;zjaworski;Bieg na orientację
+zmakowska;Matematyka;4,0;3;anowak;Sprawdzian - Kombinatoryka
+zmakowska;Historia;4,5;1;kkowalczyk;Praca z mapą
+zmakowska;Informatyka;4,0;2;anowak;Prezentacja - Chmura obliczeniowa
+mwisniewski;Chemia;4,5;3;jlis;Sprawdzian - Stechiometria
+mwisniewski;Język Polski;4,0;2;mwojcik;Rodzaje zaimków
+mwisniewski;Fizyka;4,5;1;pnowicki;Zadanie z fizyki współczesnej
+pbednarek2;Biologia;5,0;3;bgrabowska;Konkurs biologiczny
+pbednarek2;Matematyka;4,5;1;anowak;Kółko matematyczne
+pbednarek2;Wychowanie fizyczne;5,0;1;zjaworski;Zawody międzyszkolne
+ssocha2;Historia;3,0;3;kkowalczyk;Test - Polska Ludowa
+ssocha2;Informatyka;4,0;2;anowak;Podstawy C++
+ssocha2;Chemia;4,5;1;jlis;Udział w pokazach chemicznych
+awitkowska;Fizyka;4,0;3;pnowicki;Sprawdzian - Ruch obrotowy
+awitkowska;Język Polski;4,5;2;mwojcik;Felieton
+awitkowska;Matematyka;4,0;1;anowak;Odpowiedź przy tablicy
+jstepien;Matematyka;3,5;3;anowak;Sprawdzian - Rachunek różniczkowy (podst,)
+jstepien;Biologia;4,0;1;bgrabowska;Hodowla bakterii
+jstepien;Historia;4,0;2;kkowalczyk;Analiza przemówienia
+wjaworska;Wychowanie fizyczne;5,0;1;zjaworski;Joga
+wjaworska;Chemia;4,5;3;jlis;Test - Chemia nieorganiczna
+wjaworska;Informatyka;4,0;2;anowak;Tworzenie dokumentacji
+dbaran;Język Polski;4,0;3;mwojcik;Podanie
+dbaran;Fizyka;4,5;2;pnowicki;Projekt - Ogniwo Volty
+dbaran;Matematyka;4,0;1;anowak;Kartkówka - Procenty
+ksokolowska2;Biologia;4,5;3;bgrabowska;Sprawdzian - Budowa i funkcje skóry
+ksokolowska2;Historia;4,0;1;kkowalczyk;Wypowiedź na forum klasy
+ksokolowska2;Chemia;4,5;2;jlis;Badanie właściwości substancji
+mbaranowski2;Matematyka;3,0;3;anowak;Sprawdzian - Geometria przestrzenna
+mbaranowski2;Wychowanie fizyczne;5,0;1;zjaworski;Siatkówka plażowa
+mbaranowski2;Fizyka;4,0;2;pnowicki;Rozwiązywanie zadań z elektrostatyki
+npiatek2;Informatyka;5,0;3;anowak;Konkurs informatyczny
+npiatek2;Język Polski;4,5;1;mwojcik;Konkurs recytatorski
+npiatek2;Matematyka;5,0;2;anowak;Zadania olimpijskie
+abaran2;Chemia;4,0;3;jlis;Sprawdzian - Estry i aminy
+abaran2;Biologia;4,5;2;bgrabowska;Obserwacje terenowe
+abaran2;Wychowanie fizyczne;4,0;1;zjaworski;Ćwiczenia siłowe
+kpietrzak2;Historia;4,5;3;kkowalczyk;Test - Unia Europejska
+kpietrzak2;Fizyka;4,0;1;pnowicki;Prezentacja - Zjawiska jądrowe
+kpietrzak2;Język Polski;4,0;2;mwojcik;Streszczenie tekstu
+pstepien2;Matematyka;3,5;3;anowak;Sprawdzian - Logika matematyczna
+pstepien2;Informatyka;4,0;2;anowak;Tworzenie gier (podst,)
+pstepien2;Chemia;4,0;1;jlis;Praca dodatkowa
+jmakowska2;Biologia;4,0;3;bgrabowska;Sprawdzian - Genetyka populacyjna
+jmakowska2;Wychowanie fizyczne;5,0;1;zjaworski;Gry rekreacyjne
+jmakowska2;Historia;4,5;2;kkowalczyk;Projekt - Moja mała ojczyzna
+swisniewski2;Fizyka;4,5;3;pnowicki;Sprawdzian - Fizyka współczesna
+swisniewski2;Matematyka;4,0;1;anowak;Dowody matematyczne
+swisniewski2;Informatyka;4,5;2;anowak;Bezpieczeństwo systemów
+pnowakowska2;Język Polski;5,0;3;mwojcik;Olimpiada polonistyczna
+pnowakowska2;Chemia;4,5;2;jlis;Projekt - Polimery
+pnowakowska2;Biologia;4,0;1;bgrabowska;Praca badawcza
+tsocha2;Historia;3,0;3;kkowalczyk;Test - Wojny światowe
+tsocha2;Fizyka;4,0;2;pnowicki;Obserwacje astronomiczne
+tsocha2;Wychowanie fizyczne;5,0;1;zjaworski;Narciarstwo (zajęcia dodatkowe)
+mbednarek2;Matematyka;4,0;3;anowak;Sprawdzian - Analiza (pochodne)
+mbednarek2;Informatyka;4,5;1;anowak;Administracja sieciami
+mbednarek2;Język Polski;4,0;2;mwojcik;Praca z tekstem ikonicznym
+esikora;Chemia;4,5;3;jlis;Sprawdzian z budowy atomu
+esikora;Język Polski;3,0;2;mwojcik;Dyktando
+esikora;Fizyka;4,0;2;pnowicki;Zadania z optyki
+kszymanski;Chemia;2,0;3;jlis;Sprawdzian z budowy atomu
+kszymanski;WF;5,0;1;zjaworski;Skok w dal
+kszymanski;Matematyka;3,5;2;anowak;Poprawa sprawdzianu
+wjankowska;Język Polski;5,0;3;mwojcik;Wypracowanie
+wjankowska;Biologia;4,0;2;bgrabowska;Klasyfikacja roślin
+wjankowska;Historia;4,5;1;kkowalczyk;Dyskusja panelowa
+gkoziol;Fizyka;4,0;3;pnowicki;Sprawdzian - Termodynamika II
+gkoziol;Matematyka;3,5;1;anowak;Praca na lekcji
+gkoziol;Chemia;4,0;2;jlis;Reakcje utleniania i redukcji
+pkaczmarczyk;Wychowanie fizyczne;5,0;1;zjaworski;Test Coopera
+pkaczmarczyk;Informatyka;4,5;3;anowak;Algorytmy grafowe
+pkaczmarczyk;Język Polski;4,0;2;mwojcik;Gramatyka historyczna
+burbanska;Biologia;4,0;3;bgrabowska;Sprawdzian - Biotechnologia
+burbanska;Historia;4,5;2;kkowalczyk;Analiza filmu historycznego
+burbanska;Matematyka;4,0;1;anowak;Praca dodatkowa
+pwozniak;Chemia;3,5;3;jlis;Sprawdzian - Elektrochemia
+pwozniak;Fizyka;4,0;1;pnowicki;Kartkówka - Jednostki pochodne
+pwozniak;Informatyka;4,5;2;anowak;Projekt - Aplikacja mobilna (podst,)
+mprzybylska;Matematyka;4,5;3;anowak;Sprawdzian - Rachunek całkowy (podst,)
+mprzybylska;Język Polski;4,0;2;mwojcik;Mowa ciała
+mprzybylska;Biologia;4,0;1;bgrabowska;Sekcja zwłok (wirtualna)
+wwalczak2;Historia;5,0;3;kkowalczyk;Olimpiada historyczna
+wwalczak2;Wychowanie fizyczne;5,0;1;zjaworski;Organizacja zawodów
+wwalczak2;Chemia;4,5;2;jlis;Chemia żywności
+jkalinowska;Fizyka;4,0;3;pnowicki;Sprawdzian - Akustyka
+jkalinowska;Matematyka;4,5;1;anowak;Liga zadaniowa
+jkalinowska;Informatyka;4,0;2;anowak;Robotyka (podst,)
+dchmielewska;Język Polski;3,0;3;mwojcik;Test z frazeologii
+dchmielewska;Biologia;4,0;2;bgrabowska;Dziedziczenie cech
+dchmielewska;Historia;4,5;1;kkowalczyk;Praca ze zdjęciem
+awroblewski;Matematyka;5,0;3;anowak;Kangur matematyczny
+awroblewski;Informatyka;5,0;2;anowak;Programowanie obiektowe - projekt
+awroblewski;Fizyka;4,5;1;pnowicki;Udział w kole fizycznym
+ksawicka2;Wychowanie fizyczne;4,0;1;zjaworski;Jazda na rowerze
+ksawicka2;Chemia;3,5;3;jlis;Sprawdzian - Stereochemia
+ksawicka2;Język Polski;4,0;2;mwojcik;Pisanie CV
+mmichalak;Historia;4,0;3;kkowalczyk;Test - Doktryny polityczne
+mmichalak;Matematyka;4,5;2;anowak;Kombinatoryka - zadania
+mmichalak;Biologia;4,0;1;bgrabowska;Genetyka - ćwiczenia
+jnowak;Fizyka;3,0;3;pnowicki;Sprawdzian - Atomistyka
+jnowak;Informatyka;4,0;1;anowak;Obsługa pakietu biurowego
+jnowak;Wychowanie fizyczne;5,0;1;zjaworski;Turystyka piesza
+lwojcik;Matematyka;4,5;3;anowak;Sprawdzian - Geometria analityczna 3D
+lwojcik;Język Polski;4,0;2;mwojcik;Adaptacja filmowa
+lwojcik;Chemia;4,0;1;jlis;Dysocjacja elektrolityczna
+kkowalczyk2;Biologia;3,5;3;bgrabowska;Test - Hormony
+kkowalczyk2;Historia;4,0;1;kkowalczyk;Praca w grupach - Odkrycia geograficzne
+kkowalczyk2;Fizyka;4,0;2;pnowicki;Siła wyporu
+bmazurek;Wychowanie fizyczne;5,0;1;zjaworski;Wspinaczka
+bmazurek;Informatyka;4,5;3;anowak;Test - Bezpieczeństwo danych
+bmazurek;Matematyka;4,0;1;anowak;Zadanie logiczne
+kwasilewska;Chemia;4,0;3;jlis;Sprawdzian - Aldehydy i ketony
+kwasilewska;Fizyka;4,5;2;pnowicki;Zadania - Ruch po okręgu
+kwasilewska;Biologia;4,0;1;bgrabowska;Budowa DNA
+rkrajewski;Historia;5,0;3;kkowalczyk;Test - Rewolucja francuska
+rkrajewski;Matematyka;4,0;1;anowak;Szkolne zawody matematyczne
+rkrajewski;Informatyka;4,5;2;anowak;Administracja systemami
+mchojnacka;Fizyka;3,0;3;pnowicki;Sprawdzian - Termodynamika statystyczna
+mchojnacka;Język Polski;4,0;2;mwojcik;Styl urzędowy
+mchojnacka;Wychowanie fizyczne;5,0;1;zjaworski;Gry planszowe (sekcja)
+dkowalewski;Matematyka;4,5;3;anowak;Sprawdzian - Liczby zespolone (podst,)
+dkowalewski;Chemia;4,0;1;jlis;Właściwości wody
+dkowalewski;Biologia;4,0;2;bgrabowska;System odpornościowy
+amroz;Historia;3,5;3;kkowalczyk;Praca z atlasem historycznym
+amroz;Fizyka;4,0;2;pnowicki;Zjawisko Dopplera
+amroz;Informatyka;4,5;1;anowak;Podstawy sztucznej inteligencji
+bbrzezinska2;Wychowanie fizyczne;5,0;1;zjaworski;Gimnastyka artystyczna
+bbrzezinska2;Język Polski;4,0;3;mwojcik;Analiza dramatu
+bbrzezinska2;Matematyka;4,5;2;anowak;Rachunek prawdopodobieństwa - zadania
+mlisowski;Chemia;4,0;3;jlis;Sprawdzian - Białka i cukry
+mlisowski;Biologia;4,5;1;bgrabowska;Projekt - Ogródek szkolny
+mlisowski;Historia;4,0;2;kkowalczyk;Kultura i sztuka baroku
+szielinska;Fizyka;5,0;3;pnowicki;Laureat konkursu fizycznego
+szielinska;Matematyka;5,0;1;anowak;Udział w "Matematyka bez granic"
+szielinska;Informatyka;5,0;2;anowak;Stworzenie strony internetowej szkoły
+dwilk2;Język Polski;3,0;3;mwojcik;Test - Epoki literackie
+dwilk2;Chemia;4,0;2;jlis;Szybkość reakcji chemicznych
+dwilk2;Wychowanie fizyczne;4,5;1;zjaworski;Organizacja dnia sportu
+mzalewska;Matematyka;4,0;3;anowak;Sprawdzian - Macierze (podst,)
+mzalewska;Historia;4,5;2;kkowalczyk;Biografia postaci
+mzalewska;Biologia;4,0;1;bgrabowska;Praca w laboratorium biologicznym
+mkucharski;Fizyka;3,5;3;pnowicki;Sprawdzian - Elektroliza i ogniwa
+mkucharski;Informatyka;4,0;1;anowak;Podstawy Javy
+mkucharski;Język Polski;4,0;2;mwojcik;Debata oksfordzka

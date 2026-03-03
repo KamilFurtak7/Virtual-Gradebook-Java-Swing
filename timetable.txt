@@ -1,0 +1,82 @@
+# FORMAT: NAZWA_KLASY;DZIEN_TYGODNIA;GODZINA_START;GODZINA_KONIEC;PRZEDMIOT;LOGIN_NAUCZYCIELA;SALA
+# --- PLAN DLA KLASY 1Ti ---
+1Ti;Poniedziałek;08:00;08:45;Matematyka;anowak;S12
+1Ti;Poniedziałek;08:50;09:35;Język Polski;mwojcik;S25
+1Ti;Poniedziałek;09:40;10:25;Fizyka;pnowicki;S31
+1Ti;Poniedziałek;10:40;11:25;Historia;kkowalczyk;S22
+1Ti;Poniedziałek;11:30;12:15;Wychowanie fizyczne;zjaworski;GIM1
+1Ti;Wtorek;08:50;09:35;Chemia;jlis;L1
+1Ti;Wtorek;09:40;10:25;Matematyka;anowak;S12
+1Ti;Wtorek;10:40;11:25;Biologia;bgrabowska;S33
+1Ti;Wtorek;11:30;12:15;Język Polski;mwojcik;S25
+1Ti;Środa;08:00;08:45;Wychowanie fizyczne;zjaworski;GIM1
+1Ti;Środa;08:50;09:35;Język Polski;mwojcik;S25
+1Ti;Środa;09:40;10:25;Matematyka;anowak;S12
+1Ti;Środa;10:40;11:25;Fizyka;pnowicki;S31
+1Ti;Czwartek;09:40;10:25;Historia;kkowalczyk;S22
+1Ti;Czwartek;10:40;11:25;Chemia;jlis;L1
+1Ti;Czwartek;11:30;12:15;Matematyka;anowak;S12
+1Ti;Piątek;08:00;08:45;Biologia;bgrabowska;S33
+1Ti;Piątek;08:50;09:35;Język Polski;mwojcik;S25
+1Ti;Piątek;09:40;10:25;Wychowanie fizyczne;zjaworski;GIM1
+
+# --- PLAN DLA KLASY 1Tm ---
+1Tm;Poniedziałek;08:50;09:35;Wychowanie fizyczne;zjaworski;GIM2
+1Tm;Poniedziałek;09:40;10:25;Fizyka;pnowicki;S31
+1Tm;Poniedziałek;10:40;11:25;Matematyka;anowak;S12
+1Tm;Wtorek;08:00;08:45;Język Polski;mwojcik;S26
+1Tm;Wtorek;08:50;09:35;Historia;kkowalczyk;S22
+1Tm;Wtorek;09:40;10:25;Biologia;bgrabowska;S33
+1Tm;Środa;09:40;10:25;Matematyka;anowak;S13
+1Tm;Środa;10:40;11:25;Język Polski;mwojcik;S26
+1Tm;Środa;11:30;12:15;Wychowanie fizyczne;zjaworski;GIM2
+1Tm;Czwartek;08:00;08:45;Fizyka;pnowicki;S32
+1Tm;Czwartek;08:50;09:35;Chemia;jlis;L2
+1Tm;Piątek;09:40;10:25;Historia;kkowalczyk;S21
+1Tm;Piątek;10:40;11:25;Matematyka;anowak;S13
+
+# --- PLAN DLA KLASY 2Te ---
+2Te;Poniedziałek;08:00;08:45;Język Polski;mwojcik;S25
+2Te;Poniedziałek;08:50;09:35;Fizyka;pnowicki;S31
+2Te;Poniedziałek;09:40;10:25;Historia;kkowalczyk;S22
+2Te;Wtorek;08:50;09:35;Biologia;bgrabowska;S33
+2Te;Wtorek;09:40;10:25;Matematyka;anowak;S12
+2Te;Wtorek;10:40;11:25;Wychowanie fizyczne;zjaworski;GIM1
+2Te;Środa;08:00;08:45;Wychowanie fizyczne;zjaworski;GIM1
+2Te;Środa;08:50;09:35;Chemia;jlis;L1
+2Te;Środa;09:40;10:25;Język Polski;mwojcik;S25
+2Te;Czwartek;08:00;08:45;Matematyka;anowak;S12
+2Te;Czwartek;08:50;09:35;Fizyka;pnowicki;S31
+2Te;Czwartek;09:40;10:25;Biologia;bgrabowska;S33
+2Te;Piątek;10:40;11:25;Historia;kkowalczyk;S22
+2Te;Piątek;11:30;12:15;Chemia;jlis;L1
+
+# --- PLAN DLA KLASY 3Ti ---
+3Ti;Poniedziałek;09:40;10:25;Matematyka;anowak;S12
+3Ti;Poniedziałek;10:40;11:25;Historia;kkowalczyk;S22
+3Ti;Poniedziałek;11:30;12:15;Chemia;jlis;L1
+3Ti;Wtorek;08:00;08:45;Język Polski;mwojcik;S25
+3Ti;Wtorek;08:50;09:35;Wychowanie fizyczne;zjaworski;GIM1
+3Ti;Wtorek;09:40;10:25;Fizyka;pnowicki;S31
+3Ti;Środa;11:30;12:15;Matematyka;anowak;S12
+3Ti;Środa;12:20;13:05;Biologia;bgrabowska;S33
+3Ti;Czwartek;08:50;09:35;Język Polski;mwojcik;S25
+3Ti;Czwartek;09:40;10:25;Historia;kkowalczyk;S22
+3Ti;Piątek;08:00;08:45;Fizyka;pnowicki;S31
+3Ti;Piątek;08:50;09:35;Chemia;jlis;L1
+
+# --- PLAN DLA KLASY 4Te ---
+4Te;Poniedziałek;08:00;08:45;Biologia;bgrabowska;S33
+4Te;Poniedziałek;08:50;09:35;Chemia;jlis;L1
+4Te;Poniedziałek;09:40;10:25;Wychowanie fizyczne;zjaworski;GIM2
+4Te;Wtorek;09:40;10:25;Matematyka;anowak;S13
+4Te;Wtorek;10:40;11:25;Język Polski;mwojcik;S26
+4Te;Wtorek;11:30;12:15;Fizyka;pnowicki;S32
+4Te;Środa;08:50;09:35;Historia;kkowalczyk;S21
+4Te;Środa;09:40;10:25;Biologia;bgrabowska;S33
+4Te;Czwartek;08:00;08:45;Język Polski;mwojcik;S26
+4Te;Czwartek;08:50;09:35;Matematyka;anowak;S13
+4Te;Czwartek;09:40;10:25;Chemia;jlis;L2
+4Te;Piątek;08:50;09:35;Wychowanie fizyczne;zjaworski;GIM2
+4Te;Piątek;09:40;10:25;Fizyka;pnowicki;S32
+4Te;Piątek;10:40;11:25;Historia;kkowalczyk;S21

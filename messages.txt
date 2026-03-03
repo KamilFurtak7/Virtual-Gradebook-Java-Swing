@@ -1,0 +1,5 @@
+anowak;jkowalski;Zadanie domowe;"Proszę o przesłanie zaległego zadania domowego.\nPozdrawiam,\nAnna Nowak";2025-10-28T10:15:30;true
+jkowalski;anowak;Re: Zadanie domowe;"Dzień dobry, zadanie zostało już przesłane przez system.\nZ poważaniem,\nJan Kowalski";2025-10-28T14:20:00;true
+dyrektor;anowak;Zebranie Rady Pedagogicznej;"Przypominam o zebraniu Rady Pedagogicznej w środę o 15:00 w sali P1.\nObecność obowiązkowa.";2025-10-27T09:00:00;true
+mwojcik;kkrol;Konsultacje;"Zapraszam na konsultacje w środę między 12:30 a 13:15, sala P3.";2025-10-29T08:30:00;true
+jkowalski;mgora;Raz dwa trzy;dasdasdadsas;2025-10-29T20:49:21.047679;false
